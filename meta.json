@@ -1,0 +1,23 @@
+{
+  "repo": "starfield-premium-edition",
+  "product": "Starfield Premium Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "starfield",
+    "how-to-install-starfield",
+    "how-to-setup-starfield",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "starfield-premium-edition",
+    "starfield-for-windows",
+    "starfield-windows-app"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Starfield Premium Edition"
+}
